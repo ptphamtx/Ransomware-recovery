@@ -112,19 +112,3 @@ This assignment taught me that effective ransomware recovery requires:
 - **Regular patching:** Vulnerabilities like those in Intel AMT firmware highlight the need for prompt updates. Insecure configurations (e.g., SMB) are common risks that should not be ignored.
 - **Password management:** Even with backups, inaccessible credentials can stall recovery. Offline backups of admin passwords are essential.
 
-Ultimately, ransomware recovery is not just about defense—it’s about resilience. A solid recovery plan enables faster service restoration, reduced downtime, retained customer trust, and stronger long-term cybersecurity practices.
-Let me know if you want this exported into a .md file or styled differently!
-
-
-
-
-
-
-
-Is this conversation helpful so far?
-
-
-
-
-Ask ChatGPT
-
